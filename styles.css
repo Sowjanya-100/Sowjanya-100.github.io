@@ -213,7 +213,7 @@ html {
 }
 .project-card {
 
-    background: #ffffff;
+    background: #eef2ff;
 
     padding: 25px;
 
@@ -257,4 +257,11 @@ html {
 .card h3 {
     color: #2563eb;
     margin-bottom: 10px;
+}
+.dropdown-title {
+    cursor: pointer;
+}
+
+.dropdown-title:hover {
+    color: #1d4ed8;
 }
